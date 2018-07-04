@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeOnAFrame", "SnakeOnAFrame\SnakeOnAFrame.csproj", "{B1FE6C3B-1B51-4C49-A5A1-1A6D08FF9637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1FE6C3B-1B51-4C49-A5A1-1A6D08FF9637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FE6C3B-1B51-4C49-A5A1-1A6D08FF9637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FE6C3B-1B51-4C49-A5A1-1A6D08FF9637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FE6C3B-1B51-4C49-A5A1-1A6D08FF9637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327671A3-5453-4433-AF45-D85D09D3A156}
+	EndGlobalSection
+EndGlobal
